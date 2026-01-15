@@ -3,6 +3,10 @@
 # 🚀 CampusBuddy AI  
 ### Your AI Student Assistant — built for engineering students  
 
+<p align="center">
+  <img src="./dashboard.png" alt="campusbuddy" />
+</p>
+
 A premium dark-mode student dashboard to **summarize notes, generate important questions, create practical files, plan revision, and calculate CGPA/attendance** — all in one place.
 
 <br/>
