@@ -57,7 +57,7 @@ This project was deployed using the following workflow:
 ## 👤 Author
 
 **Pratyush Mishra**  
-🔗 LinkedIn: https://www.linkedin.com/in/pratyush-mishra-
+🔗 LinkedIn: https://www.linkedin.com/in/pratyush-mishra-758a0339a/
 
 ---
 
