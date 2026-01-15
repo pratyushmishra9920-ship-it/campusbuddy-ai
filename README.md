@@ -47,7 +47,7 @@ Clone the repo and run the project:
 git clone https://github.com/<your-username>/campusbuddy-ai.git
 cd campusbuddy-ai
 npm install
-npm run dev
+npm run dev```
 
 ---
 
