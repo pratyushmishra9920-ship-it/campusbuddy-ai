@@ -41,9 +41,10 @@ This project is built with:
 ---
 
 ## ⚡ Getting Started (Run Locally)
+
 Clone the repo and run the project:
 
-bash
+```bash
 git clone https://github.com/<your-username>/campusbuddy-ai.git
 cd campusbuddy-ai
 npm install
