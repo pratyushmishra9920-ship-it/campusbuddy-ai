@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 CampusBuddy AI  
-### Your AI Student Assistant — built for engineering students
+### Your AI Student Assistant — built for engineering students  
 
 A premium dark-mode student dashboard to **summarize notes, generate important questions, create practical files, plan revision, and calculate CGPA/attendance** — all in one place.
 
@@ -10,13 +10,12 @@ A premium dark-mode student dashboard to **summarize notes, generate important q
 🌐 **Live Demo (Vercel):** https://campusbuddy-ai.vercel.app/  
 🌐 **Lovable Demo:** https://learn-assist-core.lovable.app  
 
-<br/>
-
 </div>
 
 ---
 
 ## ✨ Key Features
+
 - 📝 **Notes Summarizer** — Generate summaries, key points, and MCQs from notes  
 - ❓ **Important Questions Generator** — Topic + difficulty based questions with “Most Important” tags  
 - 🧪 **Practical File Assistant** — Generates complete practical file format: aim, theory, procedure, observation table & viva questions  
@@ -30,7 +29,9 @@ A premium dark-mode student dashboard to **summarize notes, generate important q
 ---
 
 ## 🛠 Tech Stack
+
 This project is built with:
+
 - **Vite**
 - **TypeScript**
 - **React**
@@ -40,16 +41,16 @@ This project is built with:
 ---
 
 ## ⚡ Getting Started (Run Locally)
+
 Clone the repo and run the project:
 
-```bash
-git clone https://github.com/<your-username>/campusbuddy-ai.git
-cd campusbuddy-ai
-npm install
-npm run dev
+bash
+git clone https://github.com/<your-username>/campusbuddy-ai.git  
+cd campusbuddy-ai  
+npm install  
+npm run dev  
 
 ---
-
 
 ## 🚀 Deployment
 
@@ -76,4 +77,5 @@ This project was deployed using the following workflow:
 
 If you like this project, please consider giving it a **star** ⭐  
 It motivates me to build more student-focused tools.
+
 
